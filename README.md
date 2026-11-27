@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-27 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-27 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
+| [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-27 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 
 ---
 
